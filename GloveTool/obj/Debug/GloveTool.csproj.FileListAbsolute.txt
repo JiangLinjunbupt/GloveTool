@@ -1,0 +1,14 @@
+D:\KinctProject\GloveTool\GloveTool\bin\Debug\GloveTool.dll
+D:\KinctProject\GloveTool\GloveTool\bin\Debug\GloveTool.pdb
+D:\KinctProject\GloveTool\GloveTool\bin\Debug\GloveLibPC.dll
+D:\KinctProject\GloveTool\GloveTool\bin\Debug\Newtonsoft.Json.dll
+D:\KinctProject\GloveTool\GloveTool\bin\Debug\MathNet.Numerics.dll
+D:\KinctProject\GloveTool\GloveTool\bin\Debug\Newtonsoft.Json.xml
+D:\KinctProject\GloveTool\GloveTool\obj\Debug\GloveTool.dll
+D:\KinctProject\GloveTool\GloveTool\obj\Debug\GloveTool.pdb
+D:\KinctProject\GloveTool\GloveTool\obj\Debug\GloveTool.csprojResolveAssemblyReference.cache
+F:\KinctProject\GloveTool\GloveTool\bin\Debug\GloveTool.dll
+F:\KinctProject\GloveTool\GloveTool\bin\Debug\GloveTool.pdb
+F:\KinctProject\GloveTool\GloveTool\obj\Debug\GloveTool.dll
+F:\KinctProject\GloveTool\GloveTool\obj\Debug\GloveTool.pdb
+F:\KinctProject\GloveTool\GloveTool\obj\Debug\GloveTool.csprojResolveAssemblyReference.cache
